@@ -14,6 +14,8 @@ conda env create -f environment.yml
 conda acitivate EDNet
 ```
 # Training
+This code only provide a few images to test. You can replace it with your own datasets. 
+
 ```Shell
 cd EDNet
 conda jupyter notebook
