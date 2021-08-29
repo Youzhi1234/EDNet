@@ -18,6 +18,8 @@ conda acitivate EDNet
 cd EDNet
 conda jupyter notebook
 ```
-First, use 1_decoder.ipynb to train the decoder network.
-Then, use 2_encoder.ipynb to train the encoder network.
-Finally, use 3_EDNet.ipynb to assemble EDNet.
+First, use '1_decoder.ipynb' to train the decoder network.
+
+Then, use '2_encoder.ipynb' to train the encoder network.
+
+Finally, use '3_EDNet.ipynb' to assemble EDNet.
