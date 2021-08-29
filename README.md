@@ -9,3 +9,5 @@ CUDA 11.0
    git clone https://github.com/Youzhi1234/EDNet.git
    cd EDNet
    ```
+   - Using [Anaconda](https://www.anaconda.com/distribution/)
+     - Run `conda env create -f environment.yml`
