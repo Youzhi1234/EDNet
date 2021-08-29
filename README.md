@@ -5,9 +5,9 @@ This is the code for:
 Ubuntu 20.04
 
 CUDA 11.0
-   ```Shell
-   git clone https://github.com/Youzhi1234/EDNet.git
-   cd EDNet
-   ```
- - Using [Anaconda](https://www.anaconda.com/distribution/)
-   - Run `conda env create -f environment.yml`
+```Shell
+git clone https://github.com/Youzhi1234/EDNet.git
+cd EDNet
+```
+- Using [Anaconda](https://www.anaconda.com/distribution/)
+  - Run `conda env create -f environment.yml`
