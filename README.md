@@ -13,3 +13,8 @@ cd EDNet
 conda env create -f environment.yml
 conda acitivate EDNet
 ```
+# Training
+```Shell
+cd EDNet
+conda jupyter notebook
+```
