@@ -30,3 +30,15 @@ First, use '1_decoder.ipynb' to train the decoder network.
 Then, use '2_encoder.ipynb' to train the encoder network.
 
 Finally, use '3_EDNet.ipynb' to assemble EDNet, and test it.
+# Citation
+We will appreciate your citation
+```
+@article{tang2021pixel,
+  title={Pixel-level Pavement Crack Segmentation with Encoder-decoder Network},
+  author={Tang, Youzhi and Zhang, Allen A and Luo, Lei and Wang, Guolong and Yang, Enhui},
+  journal={Measurement},
+  pages={109914},
+  year={2021},
+  publisher={Elsevier}
+}
+```
