@@ -9,17 +9,20 @@ Ubuntu 20.04
 CUDA 11.0
 
 Anaconda
+
+To install:
 ```Shell
 git clone https://github.com/Youzhi1234/EDNet.git
 cd EDNet
 conda env create -f environment.yml
-conda acitivate EDNet
 ```
 # Training
 This code only provide a few images to test. You can replace it with your own datasets. 
 
+Open jupyter notebook in brower:
 ```Shell
 cd EDNet
+conda acitivate EDNet
 conda jupyter notebook
 ```
 First, use '1_decoder.ipynb' to train the decoder network.
