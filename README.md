@@ -6,7 +6,7 @@ This code is tested on:
 
 Ubuntu 20.04
 
-CUDA 11.0
+CUDA 11.0 (cuDNN 8.0.5)
 
 Anaconda
 
