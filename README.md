@@ -24,6 +24,8 @@ Open jupyter notebook in brower:
 conda activate EDNet
 jupyter notebook
 ```
+Please empty your GPU memory before each run.
+
 First, use '1_decoder.ipynb' to train the decoder network.
 
 Then, use '2_encoder.ipynb' to train the encoder network.
