@@ -21,7 +21,6 @@ This code only provide a few images to test. You can replace it with your own da
 
 Open jupyter notebook in brower:
 ```Shell
-cd EDNet
 conda acitivate EDNet
 conda jupyter notebook
 ```
