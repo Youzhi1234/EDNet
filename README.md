@@ -21,7 +21,7 @@ This code only provide a few images to test. You can replace it with your own da
 
 Open jupyter notebook in brower:
 ```Shell
-conda acitivate EDNet
+conda activate EDNet
 conda jupyter notebook
 ```
 First, use '1_decoder.ipynb' to train the decoder network.
